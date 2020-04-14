@@ -2,6 +2,8 @@
 
 这是一个可以在你自己的Minecraft服务器中在服务端进行``OP权限获取``、``重启服务器``、``关闭服务器``的插件，需配合[MCDReforged](https://github.com/Fallen-Breath/MCDReforged)使用。
 
+感谢[@Fallen_Breath](https://github.com/Fallen-Breath)给我指出插件中的问题~
+
 使用``!!op``来给你op权限（记得自己deop掉）
 
 使用``!!restart``来重启服务器
@@ -30,13 +32,15 @@ if info.content == '!!stop':
 
 This is a plugin which can help you get OP permission, restart your server, close your server in game. Just input the following contents. Remember, using [MCDReforged](https://github.com/Fallen-Breath/MCDReforged) is essentials.
 
+Special thanks to [@Fallen_Breath](https://github.com/Fallen-Breath)
+
 `!!op` give you op
 
 `!!restart` restart the server
 
 ``!!stop`` stop the server
 
-The time can be set at the line 3, just edit the number behind the variable ``waiting_time`` in seconds.
+The time can be set at the variable ``waiting_time``, just edit the number behind the variable ``waiting_time`` in seconds.
 
 If you want to disable ``!!stop`` command, you can delete or remark the content below
 

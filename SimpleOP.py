@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 import time
-waiting_time=10	# 在这里设置重启或关服等待的时间
 
 def on_info(server, info):
+	waiting_time=10	# 在这里设置重启或关服等待的时间
 	time_left=waiting_time
 	if info.is_player and info.content == '!!i_promise_i_will_not_abuse_OP_permission':
 		server.execute('op ' + info.player)
