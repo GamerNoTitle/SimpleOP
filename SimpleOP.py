@@ -25,7 +25,7 @@ def on_info(server, info):
 			stop_message='Server will close in {} second(s), please save your work!'.format(time_left)
 			server.say(stop_message)
 			if(time_left==0):
-				server.stop()
+				server.stop_exit()
 				break
 			else:
 				time.sleep(1)
