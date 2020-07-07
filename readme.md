@@ -4,6 +4,8 @@
 
 感谢[@Fallen_Breath](https://github.com/Fallen-Breath)给我指出插件中的问题~
 
+如果你想试试更多魔改的[SimpleOP-Reforged](https://github.com/GamerNoTitle/SimpleOP-Reforged)，请走[这里](https://github.com/GamerNoTitle/SimpleOP-Reforged)
+
 使用``!!op``来给你op权限（记得自己deop掉）
 
 使用``!!restart``来重启服务器
@@ -19,6 +21,8 @@
 This is a plugin which can help you get OP permission, restart your server, close your server in game. Just input the following contents. Remember, using [MCDReforged](https://github.com/Fallen-Breath/MCDReforged) is essentials. Recommand to be used in [Mirror Server](https://github.com/GamerNoTitle/MCDR-Mirror-Server)
 
 Special thanks to [@Fallen_Breath](https://github.com/Fallen-Breath)
+
+If you want to try the [SimpleOP-Reforged](https://github.com/GamerNoTitle/SimpleOP-Reforged) with more features, please click [here](https://github.com/GamerNoTitle/SimpleOP-Reforged) (CHINESE ONLY)
 
 `!!op` give you op
 
